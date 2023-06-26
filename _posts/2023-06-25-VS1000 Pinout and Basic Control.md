@@ -6,7 +6,7 @@ tags: hydroponics
 
 The VS1000 light arrived.  Reverse-engineering the remote-control protocol turned out to be surprisingly easy.  I broke out connections on an RJ11 cable, and got to probing it with a multimeter.  With the light turned on, the 4 pins show:
 
-| 1 | 2 | 3 | 4 |
+| Pin 1 | Pin 2 | Pin 3 | Pin 4 |
 | --- | --- | --- | --- |
 | +15V | GND | GND | +15V |
 

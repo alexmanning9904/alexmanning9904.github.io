@@ -2,6 +2,7 @@
 layout: post
 title: A Change of Plans
 tags: hydroponics
+published: false
 ---
 See original plan [here](2023-05-23-I-Desire-Fresh-Produce).  While I still like this plan overall, I need to cut my initial scope _way_ down in order to get enough satisfaction to keep moving on this project.  I think that the natural way to proceed with this is to reduce mechanical complexity, and to only attempt to control one variable at a time - thankfully, these two go hand-in-hand.  The new plan is to start off with a Kratky bucket.  This is so easy in fact, that I _already_ have a half-dead lettuce plant sitting on top of a 5-gallon bucket.  While I may only have gotten a bit of salad from this setup, it provides a valuable baseline that requires absolutely zero automation to function.  I can easily start controlling one variable at a time while the others self-regulate just enough to not murder my plants.  The second big advantage of this is that it requires absolutely no mechanical setup - it's a 5-gallon bucket with 4x2" holes drilled on top with net cups.  No CAD required (I originally tried to CAD up a tower garden as a way to learn OnShape, which served as my yearly reminder that I do not enjoy mechanical CAD).
 

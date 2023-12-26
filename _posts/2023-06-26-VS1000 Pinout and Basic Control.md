@@ -2,6 +2,7 @@
 layout: post
 title: VS1000 Pinout and Basic Control
 tags: hydroponics
+published: false
 ---
 
 The VS1000 light arrived.  Reverse-engineering the remote-control protocol turned out to be surprisingly easy.  I broke out connections on an RJ11 cable, and got to probing it with a multimeter.  With the light turned on, the 4 pins show:
